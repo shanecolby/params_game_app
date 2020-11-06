@@ -1,0 +1,5 @@
+{
+  name: @name,
+  message: @message,
+  guess_number: @guess_number
+}
